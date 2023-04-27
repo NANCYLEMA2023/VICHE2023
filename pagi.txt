@@ -1,0 +1,12 @@
+<HTML>
+
+
+<head>
+UNIDAD EDUCATIVA SAN VICENTE FERRER
+
+
+</head>
+<body>
+
+<a href="https://vicentino.edu.ec/">Ir a la página de exámenes 8EGB </a>
+</html>
